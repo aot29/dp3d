@@ -1,0 +1,9 @@
+validation_data
+training_data
+test_data
+.bash_history
+.jupyter/
+.local/
+Dockerfile~
+docker-compose.yml~
+typescript
